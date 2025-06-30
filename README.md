@@ -15,3 +15,6 @@ This project focuses on designing and developing a sleek, professional personal 
 - Projects/Portfolio: Displays projects with images, descriptions, tech stacks used, and optionally, links to live demos or GitHub repos.
 - Contact Section: Contact form and links to email, LinkedIn, GitHub, or other social platforms.
 - Responsive Design: Works smoothly across desktops, tablets, and smartphones.
+
+- **Output:
+- ![Image](https://github.com/user-attachments/assets/e40fb8d6-ee6a-42d7-bc02-25d239e63913)
